@@ -76,7 +76,7 @@ function draw() {
   background(255);
 
   if (sensor3 == 0 && memory == 0){
-      window.open("file:///Users/josh/Desktop/CC-3/index.html");
+      window.open("/Users/josh/Documents/GitHub/CC-3/index.html");
       memory = 1;
   }
 
